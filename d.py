@@ -90,9 +90,9 @@ def recent():
 	b2.pack()
 	b3.pack()
 
-def niks():
+def natesh():
 	from tkinter import messagebox
-	messagebox.showinfo("__","Built by:NiKS")
+	messagebox.showinfo("__","Built by:Natesh")
 
 
 
